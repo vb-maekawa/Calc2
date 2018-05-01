@@ -5,7 +5,7 @@
     android:id="@+id/cont"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.vb_note01.calc2.MainActivity">
+    tools:context="com.xxx.yyy.vb_note01.calc2.MainActivity">
 
     <LinearLayout
         android:id="@+id/Liner"

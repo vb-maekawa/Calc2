@@ -1,4 +1,4 @@
-package com.example.vb_note01.calc2;
+package com.xxx.yyy.vb_note01.calc2;
 
 import org.junit.Test;
 

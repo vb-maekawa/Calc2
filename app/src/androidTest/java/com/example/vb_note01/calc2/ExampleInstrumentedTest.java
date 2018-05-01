@@ -1,4 +1,4 @@
-package com.example.vb_note01.calc2;
+package com.xxx.yyy.vb_note01.calc2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.vb_note01.calc2", appContext.getPackageName());
+        assertEquals("com.xxx.yyy.vb_note01.calc2", appContext.getPackageName());
     }
 }
